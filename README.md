@@ -14,7 +14,7 @@ Write a program that creates a copy of an array but all the short words are repl
 
 ## Instructions
 - Clone the repository to obtain the project file [LongWords.java](https://github.com/Github-Amity/JavaBasics2/blob/main/LongWords.java). Watch [this](https://screenrec.com/share/mYGUsDTH9F) to learn how to clone a repository.
-- Thereis only one block of code you need to add. The instructions for the code you need to write are given with 🔴 emoji and the area is marked with ⬇️⬆️ emojis. Do NOT write anything outside these areas.
+- There is only one block of code you need to add. The detailed instructions for the code you need to write are given with 🔴 emoji and the area is marked with ⬇️⬆️ emojis. Do NOT write anything outside these areas.
 - Once you are done, run the code in your editor and make sure that your code works correctly and that your output matches the one given below.
 
 Output:  
